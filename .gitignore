@@ -1,0 +1,9 @@
+#Ignore file about companies
+config.json
+
+#Ignore file with results
+rezultati.csv
+
+#Ignore Python cache files
+__pycache__/
+*.pyc

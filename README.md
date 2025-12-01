@@ -26,8 +26,8 @@ I am building the project in Python, which not only helps me streamline my job h
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/formula-1-predictor.git
-    cd formula-1-predictor/backend
+    git clone https://github.com/ajla-brdarevic/WebScrappingJobs.git
+    cd WebScrappingJobs
     ```
 
 2. Install Python dependencies:
